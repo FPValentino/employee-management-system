@@ -436,13 +436,29 @@ npm run build
 
 ## Screenshots
 
-Screenshots to be added:
+### Login
 
-- Admin dashboard
-- Regular employee dashboard
-- Add employee page
-- Edit employee page
-- FastAPI API documentation
+![Login page](docs/screenshots/login-page.png)
+
+### Admin Dashboard
+
+![Admin dashboard](docs/screenshots/admin-dashboard.png)
+
+### Regular Employee Dashboard
+
+![Regular employee dashboard](docs/screenshots/regular-dashboard.png)
+
+### Add Employee
+
+![Add employee page](docs/screenshots/add-employee.png)
+
+### Edit Employee
+
+![Edit employee page](docs/screenshots/edit-employee.png)
+
+### FastAPI Documentation
+
+![FastAPI documentation](docs/screenshots/fastapi-docs.png)
 
 ## Portfolio Summary
 
